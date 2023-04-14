@@ -36,7 +36,7 @@ Power BI Best compo:  <br/>
 <img src="https://i.imgur.com/wceaf3a.png" height="80%" width="80%" alt="Power BI Best compo"/>
 <br />
 <br />
-Power BI Correlation Choice/Champion strength:  <br/>
+Power BI Correlation Choice/Champion score:  <br/>
 <img src="https://i.imgur.com/eNHAUNk.png" height="80%" width="80%" alt="Power BI Correlation Choix/Force Héro"/>
 <br />
 <br />
