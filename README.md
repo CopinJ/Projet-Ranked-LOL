@@ -16,7 +16,7 @@ Web Scraping <br/>
 <img src="https://i.imgur.com/btdWeUD.png" height="80%" width="80%" alt="Web Scraping"/>
 <br />
 <br />
-Récupération des Héros:  <br/>
+Champion list creation:  <br/>
 <img src="https://i.imgur.com/3Ff1Y1J.png" height="80%" width="80%" alt="Récupération des Héros"/>
 <br />
 <br />
