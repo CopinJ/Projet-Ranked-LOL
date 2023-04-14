@@ -1,7 +1,7 @@
 <h1>Projet Ranked LOL</h1>
 
 <h2>Description</h2>
-Analyse des statistiques du jeux League of Legend lors de la saison 13, patch 13.6. Le but étant de déterminé si le choix du héro impact votre taux de victoire. 
+Analyse des statistiques du jeux League of Legend lors de la saison 13, patch 13.6. Le but étant de déterminé si le choix du champion impact votre taux de victoire. 
 <br />
 
 <h2>Langages et Outils</h2>
